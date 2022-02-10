@@ -1,0 +1,23 @@
+{
+  "name": "slack-bot-practice",
+  "version": "1.0.0",
+  "description": "Slack Bot that handles to-dos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seal125/slack-bot-practice.git"
+  },
+  "author": "Stephanie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seal125/slack-bot-practice/issues"
+  },
+  "homepage": "https://github.com/Seal125/slack-bot-practice#readme",
+  "dependencies": {
+    "@slack/bolt": "^3.9.0",
+    "dotenv": "^16.0.0"
+  }
+}
